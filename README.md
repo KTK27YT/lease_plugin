@@ -20,7 +20,7 @@ This plugin allows you to do just that! <br>
 # Installation:
 
 **For server owners:** <br>
-download the plugin from the [releases](https://github.com/KTK27YT/lease_plugin/releases) tab, and put it in your plugins folder.
+download the plugin from the [releases](https://github.com/KTK27YT/lease_plugin/releases) tab, and put it in your plugins folder. <br>
 you can also go to the [Spigot Page](https://www.spigotmc.org/resources/lease.114517/) and view it from there
 
 **For developers:** <br>
