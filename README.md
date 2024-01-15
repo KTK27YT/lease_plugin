@@ -8,7 +8,7 @@
                                 Minecraft plugin for leasing commands to players
 ```
 <p align="center">
-<img source="https://img.shields.io/badge/License-MIT-yellow.svg"></img>
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg"></img>
 </p>
 
 Is it me or do you also want a plugin where you want to give players a temporary permission? <br>
