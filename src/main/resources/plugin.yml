@@ -1,0 +1,24 @@
+name: Lease
+version: '${project.version}'
+main: me.ktk27.lease.Lease
+api-version: 1.18
+authors: [ KTK27 ]
+description: A lease plugin for commands
+commands:
+  lease:
+    description: Lease certain commands to players
+    permission: lease.lease
+    permission-message: You don't have permission to run this command
+
+  activelease:
+    description: shows players with their leases
+    permission: lease.activelease
+    permission-message: You don't have permission to run this command
+
+permissions:
+  lease.lease:
+    description: Allows someone to grant leases
+    default: op
+  lease.activelease:
+    description: Showcases who has leases
+    default: op

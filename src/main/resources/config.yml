@@ -1,0 +1,10 @@
+leases:
+  creative:
+    start_cmd: "gamemode creative %player%"
+    end_cmd: "gamemode survival %player%"
+  op:
+    start_cmd: "op %player%"
+    end_cmd: "deop %player%"
+  spectator:
+    start_cmd: "gamemode spectator %player%"
+    end_cmd: "gamemode survival %player%"
